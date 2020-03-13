@@ -1,4 +1,4 @@
-package com.nelioalves.workshopmongo;
+package com.ifpb.workshopmongo;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
